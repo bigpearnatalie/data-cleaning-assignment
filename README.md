@@ -12,9 +12,15 @@ For Coursera Data Science Specially Course 3 assignment
 
 
 step 0 reading files first
+
 step 1.1 merge train sets and test test
+
 step 3 add descriptive activites, which is to replace y"123456" with "walking"etc.
+
 step 1.2 a readable mergeda large sets with lables subjects info
+
 step 4 load features and rename the merged data with feature names
+
 step 2 select only mean and std of measurements. Personally thinking it makes sense to select mean/std after given column feature names
+
 step 5 get averaged value of each subject on each activity, using filter to select the subject and activity, then use sapply to calculate the mean of each measurement.
