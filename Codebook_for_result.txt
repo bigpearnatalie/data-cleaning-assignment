@@ -1,0 +1,86 @@
+Codebook for result.txt (the tidy date set of averaged mean/std measurements of each subject on each activities.)
+
+
+
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
+
+Detailed row names:
+
+subject: group of 30 volunteers. From 1 to 30.
+
+labels: six activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).
+
+tBodyAcc-mean()-X
+
+
+
+tAcc-XYZ-mean() :database from accelerometer X,Y,Z direction mean 
+
+tAcc-XYZ-std() :database from accelerometer X,Y,Z direction  Standard deviation standard
+
+tGyro-XYZ-mean(): database from gyroscope X,Y,Z direction mean
+
+tGyro-XYZ-std(): database from gyroscope X,Y,Z direction std
+
+tBodyAcc-XYZ mean():database from the body acceleration signal -X,Y,Z direction mean
+
+tBodyAcc-XYZ std(): database from the body acceleration signal -X,Y,Z direction std
+
+tGravityAcc-XYZ-mean(): database from gravity acceleration signals X,Y,Z direction mean 
+
+tGravityAcc-XYZ-std(): database from gravity acceleration signals X,Y,Z direction std
+
+tBodyAccJerk-XYZ-mean() :database from body linear acceleration derived in time to obtain Jerk signals in X,Y,Z direction mean
+
+tBodyAccJerk-XYZ-std() :database from  body linear acceleration derived in time to obtain Jerk signals in X,Y,Z direction std
+
+tBodyGyroJerk-XYZ-mean(): database from angular velocity derived in time to obtain Jerk signals in X,Y,Z direction mean
+
+tBodyGyroJerk-XYZ-std(): database from angular velocity derived in time to obtain Jerk signals in X,Y,Z direction std
+
+tBodyAccMag-mean():database from the calculated magnitude of these three-dimensional  body acceleration signals  mean
+
+tBodyAccMag-std():database from the calculated magnitude of these three-dimensional  body acceleration signals  std
+
+tGravityAccMag-mean():database from the calculated magnitude of these three-dimensional  gravity acceleration signals  mean
+
+tGravityAccMag-std():database from the calculated magnitude of these three-dimensional gravity acceleration signals  std
+
+ tBodyAccJerkMag-mean():database from the calculated magnitude of these three-dimensional body linear acceleration derived in time to obtain Jerk signals  mean
+
+ tBodyAccJerkMag-std():database from the calculated magnitude of these three-dimensional body linear acceleration derived in time to obtain Jerk signals  std
+
+tBodyGyroMag-mean():database from the calculated magnitude of these three-dimensional angular velocity  mean
+
+tBodyGyroMag-std():database from the calculated magnitude of these three-dimensional angular velocity  std
+
+tBodyGyroJerkMag-mean():database from the calculated magnitude of these three-dimensional angular velocity  derived in time to obtain Jerk signals  mean
+
+tBodyGyroJerkMag-std():database from the calculated magnitude of these three-dimensional angular velocity  derived in time to obtain Jerk signals  std
+
+fBodyAcc-XYZ-mean():database from Fast Fourier Transform (FFT) processed body acceleration signal -X,Y,Z direction mean
+
+fBodyAcc-XYZ-std():database from Fast Fourier Transform (FFT) processed body acceleration signal -X,Y,Z direction std
+
+fBodyAccJerk-XYZ-mean():database from Fast Fourier Transform (FFT) processed body linear acceleration derived in time to obtain Jerk signals -X,Y,Z direction mean
+
+fBodyAccJerk-XYZ-std():database from Fast Fourier Transform (FFT) processed body linear acceleration derived in time to obtain Jerk signals -X,Y,Z direction std
+
+fBodyGyro-XYZ-mean():database from Fast Fourier Transform (FFT) processed angular velocity signals -X,Y,Z direction mean
+
+fBodyGyro-XYZ-std():database from Fast Fourier Transform (FFT) processed angular velocity signals -X,Y,Z direction std
+
+fBodyAccJerkMag-mean():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional body linear acceleration derived in time to obtain Jerk signals mean
+
+fBodyAccJerkMag-std():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional body linear acceleration derived in time to obtain Jerk signals std
+
+fBodyGyroMag-mean():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional angular velocity  mean
+
+fBodyGyroMag-std():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional angular velocity  std
+
+fBodyGyroJerkMag-mean():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional angular velocity  derived in time to obtain Jerk signals  mean
+
+fBodyGyroJerkMag-std():database from Fast Fourier Transform (FFT) processed magnitude of these three-dimensional angular velocity  derived in time to obtain Jerk signals std
+
+
+
